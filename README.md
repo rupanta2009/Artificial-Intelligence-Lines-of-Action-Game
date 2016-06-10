@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Lines-of-Action-Game-
+# Artificial Intelligence: Lines of Action Game

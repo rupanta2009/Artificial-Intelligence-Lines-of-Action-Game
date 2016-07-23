@@ -692,7 +692,6 @@ public class MachinePlayer extends JFrame{
 	 		else
 	 			System.exit(0);
 	 	}
-	 	
 	 	//Check Win for opponent player
 	 	values.setValidMovestoZero();
 	 	int temp_count2 = 0;

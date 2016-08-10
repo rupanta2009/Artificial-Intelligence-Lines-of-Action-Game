@@ -5,7 +5,6 @@ package loa;
 import java.util.ArrayList;
 
 public class Search {
-
 	public int flag,opposite_flag;
 	static int root_instance,node_count=0,computer_flag,maxvalue=0,maxdepth,count_eval,count_prune_max,count_prune_min,difficulty_level;
 	public int[][] dataarray;

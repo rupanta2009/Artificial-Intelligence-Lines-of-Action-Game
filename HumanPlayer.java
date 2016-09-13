@@ -487,7 +487,7 @@ public class HumanPlayer extends JFrame{
 		 }
 	}
 	
-	//Handle Window Closing
+	//Handle Window Closing Event
 	private class WindowHandler extends WindowAdapter
 	{
 		@Override
